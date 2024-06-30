@@ -1,2 +1,2 @@
-# bmi-clock
+# bmi-calculator
 JavaScript dilinde yazmış olduğum bmi calculator
